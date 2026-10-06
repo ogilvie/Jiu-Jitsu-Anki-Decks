@@ -1,5 +1,7 @@
- **TOGGLE ON 'Import any learning progress' WHEN IMPORTING, THEN RESET PROGRESS ON UNSUSPENDED CARDS.** *Many notes rely on suspensions to make sense/be useful.*
-
+**TOGGLE ON 'Import any learning progress' WHEN IMPORTING, THEN RESET PROGRESS ON UNSUSPENDED CARDS.** *Many notes rely on suspensions to make sense/be useful.*
+ 
+ ---
+ 
 These are three jiu jitsu Anki decks:
 
 - Positions: Basic & reversed cards with positions and their names

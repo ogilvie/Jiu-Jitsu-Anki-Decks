@@ -9,3 +9,5 @@ These are three jiu jitsu Anki decks:
 - Cues: Broader ideas from specific positions
 
 Note that these were made for personal use and may not fit your exact needs/game. If you intend to use these I would recommend adding or editing cards as you go. (My cards have certainly changed over the years).
+
+**To download:** Click on Releases on the right sidebar.
